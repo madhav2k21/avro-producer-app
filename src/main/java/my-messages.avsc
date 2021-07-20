@@ -1,0 +1,11 @@
+{
+  "namespace": "com.techleads.app.avro",
+  "type": "record",
+  "name": "MyMessages",
+  "doc": "Avro schema for MyMessages",
+  "fields": [
+    {"name": "msgId","type": "int", "doc": "message id for MyMessages"},
+    {"name": "message","type": "string", "doc": "message id for MyMessages"}
+    
+  ]
+}

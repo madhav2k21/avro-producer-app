@@ -1,0 +1,8 @@
+//generated java class with the below command
+java -jar avro-tools-1.8.2.jar compile schema my-messages.avsc .
+
+<dependency>
+			<groupId>org.apache.avro</groupId>
+			<artifactId>avro</artifactId>
+			<version>1.10.2</version>
+		</dependency>
